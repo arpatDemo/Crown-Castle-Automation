@@ -1,0 +1,69 @@
+[
+  {
+    "success": true,
+    "deck_id": "cjrlsorh9iv0",
+    "cards": [
+      {
+        "code": "5H",
+        "image": "https://deckofcardsapi.com/static/img/5H.png",
+        "images": {
+          "svg": "https://deckofcardsapi.com/static/img/5H.svg",
+          "png": "https://deckofcardsapi.com/static/img/5H.png"
+        },
+        "value": "5",
+        "suit": "HEARTS"
+      },
+      {
+        "code": "JH",
+        "image": "https://deckofcardsapi.com/static/img/JH.png",
+        "images": {
+          "svg": "https://deckofcardsapi.com/static/img/JH.svg",
+          "png": "https://deckofcardsapi.com/static/img/JH.png"
+        },
+        "value": "JACK",
+        "suit": "HEARTS"
+      },
+      {
+        "code": "9H",
+        "image": "https://deckofcardsapi.com/static/img/9H.png",
+        "images": {
+          "svg": "https://deckofcardsapi.com/static/img/9H.svg",
+          "png": "https://deckofcardsapi.com/static/img/9H.png"
+        },
+        "value": "9",
+        "suit": "HEARTS"
+      },
+      {
+        "code": "0C",
+        "image": "https://deckofcardsapi.com/static/img/0C.png",
+        "images": {
+          "svg": "https://deckofcardsapi.com/static/img/0C.svg",
+          "png": "https://deckofcardsapi.com/static/img/0C.png"
+        },
+        "value": "10",
+        "suit": "CLUBS"
+      },
+      {
+        "code": "6C",
+        "image": "https://deckofcardsapi.com/static/img/6C.png",
+        "images": {
+          "svg": "https://deckofcardsapi.com/static/img/6C.svg",
+          "png": "https://deckofcardsapi.com/static/img/6C.png"
+        },
+        "value": "6",
+        "suit": "CLUBS"
+      },
+      {
+        "code": "KC",
+        "image": "https://deckofcardsapi.com/static/img/KC.png",
+        "images": {
+          "svg": "https://deckofcardsapi.com/static/img/KC.svg",
+          "png": "https://deckofcardsapi.com/static/img/KC.png"
+        },
+        "value": "KING",
+        "suit": "CLUBS"
+      }
+    ],
+    "remaining": 46
+  }
+]
